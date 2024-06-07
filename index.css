@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+
+
+}
+
+.userCard {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+    padding: 10px;
+
+}
+
+.user {
+    margin: 20px;
+    padding: 20px;
+    border: 2px double black;
+    text-align: center;
+
+}
+
+.countryFlag {
+    height: 80px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.user-btn {
+    background-color: beige;
+    height: 50px;
+    width: 50%;
+    border-radius: 5px;
+}
